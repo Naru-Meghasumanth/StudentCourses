@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/StudentCourses/static/css/main.8dddc056.css",
-    "main.js": "/StudentCourses/static/js/main.fb7da858.js",
+    "main.js": "/StudentCourses/static/js/main.a7da0f33.js",
     "static/js/453.8121c705.chunk.js": "/StudentCourses/static/js/453.8121c705.chunk.js",
+    "static/media/fsd-1.png": "/StudentCourses/static/media/fsd-1.5fb0f9ef353de5bdcffc.png",
+    "static/media/powerbi.png": "/StudentCourses/static/media/powerbi.aa1e704520dfee7c8ee8.png",
+    "static/media/aiml.png": "/StudentCourses/static/media/aiml.b6d7ac58d61b2f8cb996.png",
+    "static/media/devops.png": "/StudentCourses/static/media/devops.52f72bc54758e060f003.png",
     "index.html": "/StudentCourses/index.html",
     "main.8dddc056.css.map": "/StudentCourses/static/css/main.8dddc056.css.map",
-    "main.fb7da858.js.map": "/StudentCourses/static/js/main.fb7da858.js.map",
+    "main.a7da0f33.js.map": "/StudentCourses/static/js/main.a7da0f33.js.map",
     "453.8121c705.chunk.js.map": "/StudentCourses/static/js/453.8121c705.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dddc056.css",
-    "static/js/main.fb7da858.js"
+    "static/js/main.a7da0f33.js"
   ]
 }
