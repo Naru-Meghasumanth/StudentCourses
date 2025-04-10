@@ -2,18 +2,13 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useState } from "react";
 import CourseCard from "./CourseCard";
 import ContactForm from "./ContactForm";
-import aiml from "./aiml.png";
-import devops from "./devops.png"; 
-import fsd from "./fsd-1.png";
-import powerbi from "./powerbi.png";
-
 
 function DashBoard() {
   const allCourses = [
     {
       id: 1,
       name: "Full Stack Development",
-      image: fsd,
+      image: "/assets/fsd-1.png",
       onlineDuration: "6 months",
       offlineDuration: "5 months",
       onlineAvailable: true,
@@ -23,7 +18,7 @@ function DashBoard() {
     {
       id: 2,
       name: "DevOps",
-      image: devops,
+      image: "/assets/devops.png",
       onlineDuration: "4 months",
       offlineDuration: "3.5 months",
       onlineAvailable: true,
@@ -33,7 +28,7 @@ function DashBoard() {
     {
       id: 3,
       name: "Power BI",
-      image: powerbi,
+      image: "/assets/powerbi.png",
       onlineDuration: "3 months",
       offlineDuration: "2.5 months",
       onlineAvailable: false,
@@ -43,7 +38,7 @@ function DashBoard() {
     {
       id: 4,
       name: "AI-ML",
-      image: aiml,
+      image: "/assets/aiml.png",
       onlineDuration: "8 months",
       offlineDuration: "7 months",
       onlineAvailable: true,
